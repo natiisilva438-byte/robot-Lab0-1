@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.zip
+*.log
+preview-*.png
+final-*.png
+.DS_Store
+Thumbs.db
+phone_calibration/results/
+phone_calibration/report/
+phone_calibration/compare_models.py
+phone_calibration/make_figures.py
+phone_calibration/package_submission.py
+phone_calibration/validate_package.py
+phone_calibration/README.md
+CHANGELOG.md
